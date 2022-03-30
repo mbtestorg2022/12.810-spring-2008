@@ -6,6 +6,7 @@ description: 'Lecture notes on Chapter 6: Equations of Motion. Topics include co
   and geostrophy.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-810-dynamics-of-the-atmosphere-spring-2008/2a3192bacaa7ab11a863ed9130049cd5_chapter_6.pdf
 file_type: application/pdf
+parent_uid: 85823b7c-7221-ca10-adcc-c3fd3247b705
 resourcetype: Document
 title: chapter_6.pdf
 uid: 2a3192ba-caa7-ab11-a863-ed9130049cd5

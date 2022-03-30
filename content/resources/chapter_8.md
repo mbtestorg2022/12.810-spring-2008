@@ -7,6 +7,7 @@ description: 'Lecture notes on Chapter 8: Internal Gravity Waves: Basics. Topics
   treatment, and numerical algorithms.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-810-dynamics-of-the-atmosphere-spring-2008/2d93a8e94c03168d27e766218a84f224_chapter_8.pdf
 file_type: application/pdf
+parent_uid: 85823b7c-7221-ca10-adcc-c3fd3247b705
 resourcetype: Document
 title: chapter_8.pdf
 uid: 2d93a8e9-4c03-168d-27e7-66218a84f224
